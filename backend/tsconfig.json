@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "./dist",
+        "types": [
+            "jest"
+        ]
+    },
+    "include": [
+        "src/**/*",
+        "tests/**/*.test.ts"
+    ]
+}
