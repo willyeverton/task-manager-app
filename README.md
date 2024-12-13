@@ -4,8 +4,8 @@ Este projeto é um sistema de gerenciamento de tarefas completo, que consiste em
 
 ## Estrutura do Projeto
 
-- `backend/`: Contém o código do backend.
-- `frontend/`: Contém o código do frontend.
+- `backend/`: Contém o código do backend em Node.js, Express e Firebase.
+- `frontend/`: Contém o código do frontend em Vue.js 3 com Vuex.
 
 ## Requisitos
 
